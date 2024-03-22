@@ -12,7 +12,7 @@ title                    : "Maike Behrendt, PhD student"
 title_separator          : "-"
 name                     : &name "Maike Behrendt"
 description              : &description "PhD student at Heinrich Heine University Düsseldorf"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mabehrendt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mabehrendt.github.io"
 
