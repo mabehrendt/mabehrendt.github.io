@@ -2,7 +2,7 @@
 title: "How Will I Argue? A Dataset for Evaluating Recommender Systems for Argumentations"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '.'
 date: 2021-07-29
 venue: 'Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue'
 paperurl: 'http://mabehrendt.github.io/files/2021.sigdial.pdf'
