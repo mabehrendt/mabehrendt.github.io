@@ -1,7 +1,7 @@
 ---
 title: "How Will I Argue? A Dataset for Evaluating Recommender Systems for Argumentations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021_how_will_i_argue
 excerpt: '.'
 date: 2021-07-29
 venue: 'Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue'
