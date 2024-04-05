@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-------
-I am a PhD student at the Heinrich Heine University in Düsseldorf, Germany.
+I am a PhD student at the Heinrich Heine University in Düsseldorf, Germany. I am interested in Natural Language Processing. 
