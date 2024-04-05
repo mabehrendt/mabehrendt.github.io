@@ -1,7 +1,7 @@
 ---
 title: "How Much Do I Argue Like You? Towards a Metric on Weighted Argumentation Graphs"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2021brenneis_howwillIargue
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
